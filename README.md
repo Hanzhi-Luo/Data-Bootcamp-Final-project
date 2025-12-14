@@ -1,5 +1,4 @@
 # Data-Bootcamp-Final-project
-A final project for course data bootcamp
 1.Introduction
 This project builds a predictive model to classify breast tumors as malignant or benign using the Breast Cancer dataset. The goal is to evaluate the performance of a simple classification model on a real-world medical dataset.
 
